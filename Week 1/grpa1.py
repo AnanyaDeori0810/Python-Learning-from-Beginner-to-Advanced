@@ -1,0 +1,6 @@
+a=str(input("Enter first word\n"))
+b=str(input("Enter second word\n"))
+c=str(input("Enter third word\n"))
+d=str(input("Enter fourth word\n"))
+e=str(input("Enter fifth word\n"))
+print(a+" "+b+" "+c+" "+d+" "+e+".")
